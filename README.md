@@ -16,3 +16,5 @@ es un proceso de desarrollo de software donde los desarrolladores examinan el c�
 
 6. 🤗 **Personalización: es el proceso de modificar o adaptar una aplicación, sistema o software para que cumpla con las necesidades, preferencias o especificaciones de un usuario u organización en particular**
 
+7. **Blockchain es una tecnología de registro distribuido que permite la creación de un libro de contabilidad digital seguro y transparente. Consiste en una cadena de bloques, donde cada bloque contiene un conjunto de transacciones y un hash criptográfico del bloque anterior. Esto garantiza la integridad y la inmutabilidad de los datos, ya que cualquier intento de modificar un bloque requeriría cambiar todos los bloques posteriores. Blockchain es la base de las criptomonedas y tiene aplicaciones en diversas áreas, como la cadena de suministro, la identidad digital y los contratos inteligentes.**
+
