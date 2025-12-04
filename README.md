@@ -14,3 +14,5 @@ es un proceso de desarrollo de software donde los desarrolladores examinan el c�
 
 5. 😅 **Plug & play**: Significa "enchufar y usar". Reconocimiento inmediato de un dispositivo por parte de la computadora, sin necesidad de instrucciones del usuario.
 
+6. 🤗 **Personalización: es el proceso de modificar o adaptar una aplicación, sistema o software para que cumpla con las necesidades, preferencias o especificaciones de un usuario u organización en particular**
+
