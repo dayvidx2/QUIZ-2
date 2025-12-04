@@ -12,3 +12,5 @@ es cualquier programa informático para el cual se debe pagar un precio para su 
 4.✌️**Revisión de código**
 es un proceso de desarrollo de software donde los desarrolladores examinan el código para detectar errores, asegurar la calidad, la consistencia y la seguridad antes de integrarlo en la base de código principal
 
+5. 😅 **Plug & play**: Significa "enchufar y usar". Reconocimiento inmediato de un dispositivo por parte de la computadora, sin necesidad de instrucciones del usuario.
+
